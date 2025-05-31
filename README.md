@@ -16,6 +16,7 @@
   - sneaker（运动鞋）
   - bag（包）
   - ankle boot（短靴）
+  
 ![数据集展示](https://i-blog.csdnimg.cn/blog_migrate/e1cc2fc3420f61881757e57ef523479a.png#pic_center)
 ### 数据集下载地址
 https://www.kaggle.com/datasets/zalando-research/fashionmnist/data
@@ -31,4 +32,4 @@ https://www.kaggle.com/datasets/zalando-research/fashionmnist/data
 - 随机森林（Random-Forest）
 - XGBoost
 读者可通过相应的`.ipynb`文件查看具体实现流程
-# Appreciate!
+**Appreciate!**
