@@ -35,8 +35,11 @@ https://www.kaggle.com/datasets/zalando-research/fashionmnist/data
 - [支持向量机（SVM）](/SVM.ipynb)
 - [随机森林（Random-Forest）](/Random-Forest.ipynb)
 - [XGBoost](/XGBoost.ipynb)  
+
 读者可通过相应的`.ipynb`文件查看具体实现流程  
+
 具体预测结果已放至[预测结果](/预测结果)中，读者可自行查看
-  [模型对比](/模型对比)中进行了6个模型的性能对比
+
+[模型对比](/模型对比)中进行了6个模型的性能对比
 
 # **Appreciate Reading!**
