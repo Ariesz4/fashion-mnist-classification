@@ -29,7 +29,7 @@ https://www.kaggle.com/datasets/zalando-research/fashionmnist/data
 ![预期功能](https://i-blog.csdnimg.cn/blog_migrate/1acd4c5e5ef73c7b46a7bb45eb4f9ac6.png#pic_center)
 
 基于tensorflow和sscikit-learn等软件包，我们选取了以下6种机器学习中的经典模型，并实现了对Fashion-Mnist数据集的分类
-- 多层感知机（MLP）
+- [多层感知机（MLP）](/MLP.ipynb)
 - 深度神经网络（DNN）
 - 卷积神经网络（CNN）
 - 支持向量机（SVM）
@@ -38,4 +38,5 @@ https://www.kaggle.com/datasets/zalando-research/fashionmnist/data
 读者可通过相应的`.ipynb`文件查看具体实现流程  
 具体预测结果已放至`预测结果`文件夹中，读者可自行查看
 `模型对比`文件夹中进行了6个模型的性能对比
-**Appreciate Reading!**
+
+# **Appreciate Reading!**
