@@ -20,4 +20,15 @@
 ### 数据集下载地址
 https://www.kaggle.com/datasets/zalando-research/fashionmnist/data
 ## 分类模型
+- 通过编写代码，我们希望能够实现类似于下图的分类功能
 ![预期功能](https://i-blog.csdnimg.cn/blog_migrate/1acd4c5e5ef73c7b46a7bb45eb4f9ac6.png#pic_center)
+
+基于tensorflow和sscikit-learn等软件包，我们选取了以下6种机器学习中的经典模型，并实现了对Fashion-Mnist数据集的分类
+- 多层感知机（MLP）
+- 深度神经网络（DNN）
+- 卷积神经网络（CNN）
+- 支持向量机（SVM）
+- 随机森林（Random-Forest）
+- XGBoost
+读者可通过相应的`.ipynb`文件查看具体实现流程
+# Appreciate!
