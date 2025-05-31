@@ -4,6 +4,7 @@ a project presented by 6 hfuters
 - Fashion-MNIST是Zalando的研究论文中提出的一个数据集，由包含60000个实例的训练集和包含10000个实例的测试集组成
 - 每个实例包含一张28x28的灰度服饰图像和对应的类别标记
 - 共有10类服饰，分别是：
+  
   - T-shirt（T恤）
   - trouser（牛仔裤）
   - pullover（套衫）
