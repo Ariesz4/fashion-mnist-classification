@@ -24,7 +24,7 @@ https://www.kaggle.com/datasets/zalando-research/fashionmnist/data
 - 测试集:`fashion-mnist_test.csv`
 - 训练集:`fashion-mnist_train.csv`分别作为测试集和训练集
 - 你也可以自行再划分验证集
-- 下载好数据集后，导入流程见[导入数据集]（/数据导入）
+- 下载好数据集后，导入流程见[导入数据集]（/数据导入.ipynb）
 ## 分类模型
 - 通过编写代码，我们希望能够实现类似于下图的分类功能
 ![预期功能](https://i-blog.csdnimg.cn/blog_migrate/1acd4c5e5ef73c7b46a7bb45eb4f9ac6.png#pic_center)
