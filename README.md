@@ -18,6 +18,8 @@
   - ankle boot（短靴）
   
 ![数据集展示](https://i-blog.csdnimg.cn/blog_migrate/e1cc2fc3420f61881757e57ef523479a.png#pic_center)
+
+-你可以在[数据集预览](/数据集预览.ipynb)及各模型板块中见到更多有关数据集的可视化内容
 ### 数据集下载地址  
 https://www.kaggle.com/datasets/zalando-research/fashionmnist/data  
 
