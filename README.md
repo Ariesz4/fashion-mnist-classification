@@ -18,8 +18,9 @@
   - ankle boot（短靴）
   
 ![数据集展示](https://i-blog.csdnimg.cn/blog_migrate/e1cc2fc3420f61881757e57ef523479a.png#pic_center)
-### 数据集下载地址
-https://www.kaggle.com/datasets/zalando-research/fashionmnist/data
+### 数据集下载地址  
+https://www.kaggle.com/datasets/zalando-research/fashionmnist/data  
+我们将用到其中的`fashion-mnist_test.csv`与`fashion-mnist_train.csv`分别作为测试集和训练集，你也可以自行再划分验证集
 ## 分类模型
 - 通过编写代码，我们希望能够实现类似于下图的分类功能
 ![预期功能](https://i-blog.csdnimg.cn/blog_migrate/1acd4c5e5ef73c7b46a7bb45eb4f9ac6.png#pic_center)
@@ -31,5 +32,5 @@ https://www.kaggle.com/datasets/zalando-research/fashionmnist/data
 - 支持向量机（SVM）
 - 随机森林（Random-Forest）
 - XGBoost
-读者可通过相应的`.ipynb`文件查看具体实现流程
-**Appreciate!**
+读者可通过相应的`.ipynb`文件查看具体实现流程  
+**Appreciate Reading!**
